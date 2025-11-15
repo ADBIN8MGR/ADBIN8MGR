@@ -9,4 +9,4 @@ I'm a cybersecurity student and aspiring Security Researcher, operating under th
 - 🤔 My main interest lies in OSINT and the reconnaissance phase of ethical hacking.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adbin-magar-4228b1333/)
 
-angular arduino bash bootstrap c circleci cockroachdb cplusplus docker gcp git go graphql hadoop heroku html5 java javascript jenkins kubernetes linux mariadb mongodb mssql mysql nginx nodejs oracle php postgresql postman python pytorch react reactnative sass tailwind tensorflow unity
+
