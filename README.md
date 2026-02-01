@@ -7,6 +7,6 @@ I'm a cybersecurity student and aspiring Security Researcher, operating under th
 - 🌱 I’m learning to apply my skills in practical labs like the Kioptrix series and documenting my journey.
 - 👯 I’m looking to collaborate on CTF challenges and open-source security projects.
 - 🤔 My main interest lies in OSINT and the reconnaissance phase of ethical hacking.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adbin-magar-4228b1333/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adbin-magar/)
 
 
