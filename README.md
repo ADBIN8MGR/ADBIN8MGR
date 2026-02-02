@@ -3,7 +3,7 @@
 <p align="center">Operating under the brand <strong>The Grey Lens</strong></p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l3q2K6YT6NCzJ0jDC/giphy.gif" alt="Hacker coding" width="400" />
+  <img src="[[https://media.giphy.com/media/SvckXfOYM6z6w/giphy.gif](https://media.giphy.com/media/l3q2K6YT6NCzJ0jDC/giphy.gif)](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGMwNTc1MDMyMHpicmV4ZzI5cjYwdXQ0aHZnbHUwbGI3OXR2anFwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4FkC2VqpeNRHjTDQ5/giphy.gif)" alt="Hacker coding" width="400" />
 </div>
 
 ---
