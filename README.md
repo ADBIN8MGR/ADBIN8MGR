@@ -3,20 +3,22 @@
 <p align="center">Operating under the brand <strong>The Grey Lens</strong></p>
 <p align="center">Passionate about deconstructing systems to understand how they work and how they break</p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/SvckXfOYM6z6w/giphy.gif" alt="Hacker" width="300" />
+</div>
+
 ---
 
 - 🌱 I'm currently learning **Offensive Security & Penetration Testing**
 - 🔍 My main interest lies in **OSINT and the reconnaissance phase of Ethical Hacking**
-- 🐛 Active **Bug Bounty Hunter** since 2019
-- 💻 Founder of **Cyberpolitan** - sharing cybersecurity knowledge
-- 📚 Contributing to security research and open-source tools
+- 💻 Exploring **Machine Learning applications in Cybersecurity**
+- 📚 Contributing to security knowledge and research
 
 ---
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adbinmagar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/adbinmgr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 <a href="mailto:samsgp01@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
@@ -45,27 +47,6 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
-
----
-
-<h3 align="left">🔨 What I'm Currently Working On:</h3>
-
-- 🛠️ **MudBug Bounty Tool** - Advanced bug bounty hunting automation (Publishing soon)
-- 📖 **Security Research** - Regular articles and case studies on [CyberBlog](https://cyberblogspot.wordpress.com)
-- 👥 **Collaborative Projects** - Working with community on security research
-- 🤖 **ML for Security** - Building machine learning models for threat detection
-
----
-
-<h3 align="left">💡 My Expertise:</h3>
-
-- **Cybersecurity**: Offensive Security, Penetration Testing, Vulnerability Assessment
-- **OSINT**: Reconnaissance, Footprinting, Information Gathering
-- **Bug Bounty Hunting**: Active hunter since 2019
-- **Web Security**: Application security, API testing, WAF bypassing
-- **Network Security**: Protocol analysis, network reconnaissance
-- **Scripting**: Python automation for security tools
-- **Ethical Hacking**: Certified concepts and methodologies
 
 ---
 
