@@ -51,7 +51,7 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=adbinmgr&show_icons=true&locale=en&layout=compact" alt="adbinmgr" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ADBIN8MGR&show_icons=true&locale=en&layout=compact" alt="adbinmgr" />
 </p>
 
 ---
