@@ -51,12 +51,6 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ADBIN8MGR&show_icons=true&locale=en&layout=compact" alt="ADBINMGR" />
-</p>
-
----
-
-<p align="center">
   <i>"The best penetration tester understands the system not just from a technical perspective, but from the perspective of those defending it."</i>
 </p>
 
