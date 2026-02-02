@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adbin Magar</h1>
-<h3 align="center">Cybersecurity Student | Ethical Hacker | Security Researcher</h3>
+<h3 align="center">Cybersecurity Enthusiast | Penetration Tester | Red Team Learner</h3>
 <p align="center">Operating under the brand <strong>The Grey Lens</strong></p>
-<p align="center">Passionate about deconstructing systems to understand how they work and how they break</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SvckXfOYM6z6w/giphy.gif" alt="Hacker" width="300" />
+  <img src="https://media.giphy.com/media/l3q2K6YT6NCzJ0jDC/giphy.gif" alt="Hacker coding" width="400" />
 </div>
 
 ---
@@ -12,14 +11,15 @@
 - 🌱 I'm currently learning **Offensive Security & Penetration Testing**
 - 🔍 My main interest lies in **OSINT and the reconnaissance phase of Ethical Hacking**
 - 💻 Exploring **Machine Learning applications in Cybersecurity**
-- 📚 Contributing to security knowledge and research
+- 📚 Contributing to **security knowledge and research**
+- 🎭 Passionate about understanding **human behavior in security** (the mentalist way - reading people, not just machines)
 
 ---
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adbinmagar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:samsgp01@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="mailto:samsgp01@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="30" width="100" /></a>
 </p>
 
 ---
@@ -57,5 +57,11 @@
 ---
 
 <p align="center">
-  <i>"Security is not a product, it's a process."</i>
+  <i>"The best penetration tester understands the system not just from a technical perspective, but from the perspective of those defending it."</i>
+</p>
+
+---
+
+<p align="center">
+  🔐 The Grey Lens | Learning to Think Like an Attacker | Building Security Skills
 </p>
