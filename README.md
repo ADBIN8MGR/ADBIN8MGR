@@ -3,7 +3,7 @@
 <p align="center">Operating under the brand <strong>The Grey Lens</strong></p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy.gif" alt="Hacker coding" width="400" />
+  💻 🔐 🖥️ ⚡ 🔍
 </div>
 
 ---
@@ -18,8 +18,8 @@
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/adbinmagar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="/cdn-cgi/l/email-protection#cdbeaca0beaabdfdfc8daaa0aca4a1e3aea2a0" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="30" width="100" /></a>
+<a href="https://www.linkedin.com/in/adbin-magar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:adbin8magar@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="30" width="100" /></a>
 </p>
 
 ---
@@ -57,4 +57,4 @@
 ---
 
 <p align="center">
-  🔐 The Grey Lens | Learning to Think Like an
+  🔐 The Grey Lens | Learning to Think Like an Attacker | Building Security Skills
