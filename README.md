@@ -38,15 +38,9 @@
 
 ---
 
-<h3 align="left">☁️ Certifications in Progress:</h3>
-<p align="left">
-AZ-900 Azure Fundamentals → AZ-104 Azure Administrator Associate → AZ-500 Azure Security Engineer Associate
-</p>
-
----
 
 <p align="center">
-  <i>"You can't secure infrastructure you've never operated. Understanding both sides — attacker and defender — is what makes defense real."</i>
+  <i>"You can't secure infrastructure you've never operated. Understanding both sides attacker and defender is what makes defense real."</i>
 </p>
 
 ---
